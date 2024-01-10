@@ -1,9 +1,6 @@
 # THE BLOOD BANK MANAGEMENT SYSTEM (RDBMS)
+
 CS 4433 Final Project
- 
-## Description:
-The Blood Bank Management System is a robust Relational Database Management System (RDBMS) designed to streamline and enhance the operations of a blood bank. This sophisticated system efficiently manages the vast array of data associated with blood donation, storage, and distribution.
- 
 ![Final_Report_for_Blood_Bank_Database-1](https://user-images.githubusercontent.com/98559773/228284481-5c3d3e0d-1dcb-4e55-a751-41fa9488be4e.jpg)
 ![Final_Report_for_Blood_Bank_Database-2](https://user-images.githubusercontent.com/98559773/228284486-e3cbcc88-d7a5-4fa1-aff6-9d0056b777c7.jpg)
 ![Final_Report_for_Blood_Bank_Database-3](https://user-images.githubusercontent.com/98559773/228284488-53c12508-9b2c-4137-8b07-92b7f34cb511.jpg)
