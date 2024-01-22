@@ -1,4 +1,5 @@
 # THE BLOOD BANK MANAGEMENT SYSTEM (RDBMS) 🩸
+![Screenshot 2024-01-16 164922](https://github.com/LPhilip-CS/The-Blood-Bank-RDBMS/assets/98559773/5d051dac-cda0-4186-bd11-9fc338bf2a3b)
 
 CS 4433 Final Project
 
